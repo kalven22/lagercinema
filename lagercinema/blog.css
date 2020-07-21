@@ -1,0 +1,261 @@
+
+.colorcss1{
+  background-color: #375E97;
+}
+
+.colorcss2{
+  background-color: #FB6542;
+}
+
+
+.colorcss3{
+  background-color: #FFBB00;
+}
+
+.colorcss4{
+  background-color: #3F681C;
+}
+
+.internalheader1{
+  background-color: #375E97;
+}
+
+.internalheader2{
+  background-color: #FB6542;
+}
+
+.page-header-logo{
+
+  color: white;
+  background-color: #2C7873;
+  text-align: center;
+
+
+
+font-family: 'Righteous', cursive;
+font-size: 1.8em;
+
+}
+
+nav{
+  /*background-color: #0B453C;*/
+  /*background-color: #55298E;*/
+  background-color: #9A1882;
+  background-color:#44A418;
+  background-color:#4D648D;
+}
+
+.main-outline{
+  border: 2px solid green;
+
+}
+
+.header-outline{
+  border: 2px dotted black;
+
+}
+
+.newsimg{
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
+.text-font-patrick{
+  font-family: 'Patrick Hand SC', cursive;
+}
+
+.text-font-roboto{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+li{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1em;
+}
+
+
+
+.text-font-noticia{
+  font-family: 'Noticia Text', serif;
+}
+
+a{
+  color: black;
+}
+
+/* stylelint-disable selector-list-comma-newline-after */
+
+.blog-header {
+  line-height: 2.5;
+
+}
+
+.blog-header-logo {
+  /*font-family: "Playfair Display", Georgia, "Times New Roman", serif;*/
+
+  /*font-family: 'Permanent Marker', cursive;
+  font-family: 'Josefin Slab', serif;
+  font-family: 'Poiret One', cursive;*/
+  font-family: 'Righteous', cursive;
+
+
+  font-size: 1.8em;
+}
+
+
+.blog-header-font {
+  /*font-family: "Playfair Display", Georgia, "Times New Roman", serif;*/
+
+  /*font-family: 'Permanent Marker', cursive;
+  font-family: 'Josefin Slab', serif;
+  font-family: 'Poiret One', cursive;*/
+  font-family: 'Righteous', cursive;
+
+
+}
+
+#link1:hover{
+  color: white;
+  text-decoration: underline;
+  /*background-color: black;
+*/}
+
+#link2:hover{
+  color: white;
+  text-decoration: overline;
+  /*background-color: black;
+*/}
+
+#link3:hover{
+  color: white;
+  text-decoration: underline;
+  /*background-color: black;
+*/}
+
+
+.blog-header-logo:hover {
+  text-decoration: overline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.display-4 {
+  font-size: 2.5rem;
+}
+@media (min-width: 768px) {
+  .display-4 {
+    font-size: 3rem;
+  }
+}
+
+.nav-scroller {
+  position: relative;
+  z-index: 2;
+  height: 2.75rem;
+  overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  padding-bottom: 1rem;
+  margin-top: -1px;
+  overflow-x: auto;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.nav-scroller .nav-link {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  font-size: .875rem;
+}
+
+.card-img-right {
+  height: 100%;
+  border-radius: 0 3px 3px 0;
+}
+
+.flex-auto {
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
+
+.h-250 { height: 250px; }
+@media (min-width: 768px) {
+  .h-md-250 { height: 250px; }
+}
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+/*
+ * Blog name and description
+ */
+.blog-title {
+  margin-bottom: 0;
+  font-size: 2rem;
+  font-weight: 400;
+}
+.blog-description {
+  font-size: 1.1rem;
+  color: #999;
+}
+
+@media (min-width: 40em) {
+  .blog-title {
+    font-size: 3.5rem;
+  }
+}
+
+/* Pagination */
+.blog-pagination {
+  margin-bottom: 4rem;
+}
+.blog-pagination > .btn {
+  border-radius: 2rem;
+}
+
+/*
+ * Blog posts
+ */
+/* .blog-post {
+  margin-bottom: 4rem;
+} */
+.blog-post-title {
+  margin-bottom: .25rem;
+  font-size: 2.5rem;
+}
+.blog-post-meta {
+  margin-bottom: 1.25rem;
+  color: #999;
+}
+
+/*
+ * Footer
+ */
+.blog-footer {
+   /* padding: 2.5rem 0; */
+
+  text-align: center;
+
+  /* border-top: .05rem solid #e5e5e5;  */
+}
+/* .blog-footer p:last-child {
+  margin-bottom: 0;
+} */
+
+
+/* bigboss2.php css*/
+
