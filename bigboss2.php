@@ -14,7 +14,9 @@
 	define( 'PATH_TCLASS', dirname(__FILE__) . "/" );
 	$path = dirname(dirname(__FILE__)) . "/app.ajax-poll/";
 	if ( !file_exists( $path ) ) {
-		echo "<h3>Please put this folder inside Ajax Poll Script folder!</h3>";
+		echo "<h3>Big Boss 2 season has ended!</h3>";
+    		echo "<h3>More information about the new season release will be updated soon.</h3>";
+    		echo "<h3>Thank You for your patience!</h3>";
 		exit;
 	}
 	include( $path . "cp.inc.php" );
